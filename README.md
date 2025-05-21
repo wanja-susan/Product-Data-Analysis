@@ -155,6 +155,12 @@ This line chart tracks the number of users active each month across the year.
 ![final dashboard](https://github.com/user-attachments/assets/ff00619a-40b6-4b44-adfb-b1d9e4f9c259)
 
 
+
+https://github.com/user-attachments/assets/03e1af27-830f-48b9-a918-21b4ae2b4fde
+
+
+
+
 This dashboard summarizes user behavior and retention insights from 2022 to 2025 using Pivot Charts and Slicers.
 
 ### Dashboard Highlights:
