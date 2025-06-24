@@ -1,20 +1,20 @@
 # Quicksave
 ![image](https://github.com/user-attachments/assets/c8e50d7a-11c3-4889-bbfd-60493c1d1f71)
 
-**QuickSave** is a feature in our Ziwatech app that is a global fintech solution built for the everyday saver—the student, the hustler, the small business owner, and anyone who thinks "you have to save big to start saving." We're here to prove you don’t. QuickSave is designed to make saving effortless, flexible, and accessible—no matter how small the amount.
+**QuickSave** is a feature in our Ziwatech app that is a global fintech solution built for the everyday saver, the student, the hustler, the small business owner, and anyone who thinks "you have to save big to start saving." We're here to prove you don’t. QuickSave is designed to make saving effortless, flexible, and accessible, no matter how small the amount.
 
 We specialize in:
 
 - **Automated Micro-Savings**  
-  Users set their savings frequency (daily, weekly, bi-weekly, or monthly) and QuickSave handles the rest—saving small amounts behind the scenes.
+  Users set their savings frequency (daily, weekly, bi-weekly, or monthly) and QuickSave handles the rest, saving small amounts behind the scenes.
 
 - **Goal-Based Saving**  
   Whether it’s an emergency cushion, school fees, a new phone, or even just “future you,” users create personalized goals and track progress easily.
 
 - **Behavioral Nudges & Insights**  
-  Through smart reminders, performance tracking, and clean dashboards, users build better saving habits over time—starting small and scaling confidently.
+  Through smart reminders, performance tracking, and clean dashboards, users build better saving habits over time, starting small and scaling confidently.
 
-Our mission is to shift the mindset around saving. You don’t need “big bundas” to get started—you just need a goal, a plan, and a little consistency. QuickSave is here to walk with you, one save at a time.
+Our mission is to shift the mindset around saving. You don’t need “big bundas” to get started, you just need a goal, a plan, and a little consistency. QuickSave is here to walk with you, one save at a time.
 <details>
 <summary> Project Goals</summary>
 
