@@ -35,6 +35,7 @@ Our mission is to shift the mindset around saving. You don’t need “big bunda
 <br>
 
 - [Executive Summary](#executive-summary)
+- [Tools & Technologies Used](#tools--technologies-used)
 - [Monthly Revenue in 2024](#monthly-revenue-in-2024)
 - [Saving Frequency by Location](#saving-frequency-by-location)
 - [Retention by Saving Goal](#retention-by-saving-goal)
@@ -58,6 +59,25 @@ From 2022 to 2025, QuickSave achieved:
 - **Avg Days to First Save**: 50  
 
 The platform demonstrates strong adoption, particularly among **weekly** and **bi-weekly savers**, with seasonal peaks in revenue and user activity in **March**, **June**, and **October**.
+
+## Tools & Technologies Used
+
+This project was built using a combination of the following tools and platforms:
+
+- **Microsoft Excel**  
+  Used for initial data review, calculation of KPIs, and structured tables for export.
+
+- **Power Query**  
+  Enabled advanced data cleaning, transformation, and feature engineering to prepare the dataset.
+
+- **Pivot Tables & Charts**  
+  Supported visualization of metrics such as revenue trends, user retention, and saving behavior by goal/frequency.
+
+- **Slicers**  
+  Added interactivity to the dashboard, allowing stakeholders to filter by year, status, location, and plan type.
+
+- **GitHub**  
+  Used to document and share the project publicly as part of a professional data analytics portfolio.
 
 ## Monthly Revenue in 2024
 
