@@ -44,6 +44,7 @@ Our mission is to shift the mindset around saving. You don’t need “big bunda
 - [Recommendations](#recommendations)
 - [Dashboard Preview](#dashboard-preview)
 - [Appendix](#-appendix)
+- [Author & License](#author--license)
 
   </details>
 
@@ -249,5 +250,12 @@ This mock project was designed to simulate a real-world product analysis scenari
 Beyond generating dashboards, I focused on creating a narrative around the data — helping stakeholders see not just what is happening, but why it matters and what to do next.
 
 This project allowed me to apply end-to-end skills including data cleaning, feature engineering, KPI selection, storytelling with charts, and professional reporting.
+
+## Author & License
+
+This project was created as part of a professional portfolio to demonstrate practical product analysis using Excel.
+
+- TikTok: [@wanja_analyst](https://www.tiktok.com/@wanja_analyst)  
+- LinkedIn: [Susan Wanja Kariuki](https://www.linkedin.com/in/susan-wanja-1b63a6234/)  
 
 © 2025 | Susan Wanja | Data Analytics Portfolio
